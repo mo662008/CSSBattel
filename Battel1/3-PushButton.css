@@ -1,0 +1,38 @@
+<div id="sqr"></div>
+<div id="circOne"></div>
+<div id="circTwo"></div>
+<div id="circThree"></div>
+<style>
+  body {
+    margin: 0;
+    background: #6592CF;
+  }
+
+  #sqr {
+    margin: 4.7em 0em 0em 3.1em;
+    width: 300px;
+    height: 150px;
+    background: #243D83;
+  }
+  #circOne {
+    width: 250px;
+    height: 250px;
+    background: #6592CF;
+    border-radius: 200px;
+    margin: -12.5em 0em 0em 4.7em;
+  }
+  #circTwo {
+    width: 150px;
+    height: 150px;
+    background: #243D83;
+    margin: -12.5em 0em 0em 7.8em;
+    border-radius: 200px;
+  }
+  #circThree {
+    width: 50px;
+    height: 50px;
+    border-radius: 200px;
+    margin: -6.25em 0em 0em 10.9555555em;
+    background: #EEB850;
+  }
+</style>
