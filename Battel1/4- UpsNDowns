@@ -1,0 +1,26 @@
+<div id="top"></div>
+<div id="lfbot"></div>
+<div id="rtbot"></div>
+<style>
+  body {
+    margin: 0;
+    background: #62306D;
+  }
+  div {
+   	width: 100px;
+    height: 100px;
+    background: #F7EC7D; 
+  }
+  #top {
+    border-radius: 100% 100% 0 0;
+    margin: 3.1em 0em 0em 9.4em;
+  }
+  #lfbot {
+   	border-radius: 0 0 100% 100%;
+    margin: 0em 0em 0em 3.1em;
+  }
+  #rtbot {
+    border-radius: 0 0 100% 100%;
+    margin: -6.2em 0em 0em 15.6em;
+  }
+</style>
