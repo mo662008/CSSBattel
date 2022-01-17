@@ -1,0 +1,26 @@
+<div id="one"></div>
+<div id="two"></div>
+<div id="three"></div>
+<style>
+  body {
+    margin: 0;
+    background: #0B2429;
+  }
+  div {
+    width: 150px;
+    height: 150px;
+    border-radius: 6em 0 6em 0;
+  }
+  #one {
+    background: #1A4341;    
+	margin: 4.6em 0 0 4.8em;
+  }
+    #two {
+    background: #998235;   
+	margin: -9.4em 0 0 8em;
+  }
+    #three {
+    background: #F3AC3C;  
+	margin: -9.4em 0 0 10.9em;
+  }  
+</style>
