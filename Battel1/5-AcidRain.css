@@ -1,0 +1,29 @@
+<div id="top"></div>
+<div id="mid"></div>
+<div id="bot"></div>
+<style>
+  body {
+    background: #0B2429;
+    margin: 0;
+  }
+  div {
+    width: 120px;
+    height: 120px;
+    background: #F3AC3C;
+  }
+  #top {
+    margin: 1.9em 0em 0em 12.5em;
+    border-radius: 100%;
+  }
+  #mid {
+    width: 120px;
+    height: 120px;
+    border-radius: 100% 0 100% 100%;
+    background: #998235;
+    margin: -3.8em 0em 0em 8.82em;
+  }
+  #bot {
+    border-radius: 100% 0 100% 100%;
+    margin: -3.8em 0em 0em 5em;
+  }
+</style>
